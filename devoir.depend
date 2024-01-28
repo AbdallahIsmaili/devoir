@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1706458838 source:c:\users\ais.development\desktop\c\devoir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1703557476 c:\users\ais.development\desktop\c\devoir\cjson.h
+	<stddef.h>
+
